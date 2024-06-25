@@ -5,6 +5,7 @@ MATLAB app to simulate in vitro adaptation experiments of M. tuberculosis treate
 1. Download the raw file
 2. Double click the executable file
 3. Once installed, the app will appear in apps panel in MATLAB
+4. It is recommended to use the App in the fullscreen mode for optimal image re-scaling. 
 
 ## Project Overview
 We solve a cellular and population level mathematical model that captures bacterial growth, first mutant appearance at its mean waiting times, and drug-mediated killing controlled by intracellular drug levels in each mutant. Here, the model is solved to mimic an in vitro experiment of M. tuberculosis treated with bedaquiline. <br>
